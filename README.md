@@ -9,7 +9,7 @@
 
 - ⚡ Fun fact **I realized I could write less code and still do cool stuff — that’s how I fell into Data Science 😄**
 
-<h3 align="left">Connect with me:</h3>
+
 <p align="left">
 </p>
 
