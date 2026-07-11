@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Chinthak Divan K</h1>
+<h1 align="center">Hi I'm Chinthak Divan K</h1>
 <h3 align="center">Hey there! I’m an AI & Data Science student who loves turning raw data into useful insights. 📊 I play around with data analysis and Business Intelligence tools to find patterns, trends, and stories hidden inside numbers. 🤖 From machine learning models to dashboards, I enjoy building things that actually make sense of data. 🚀 Always learning, always experimenting, and always curious about what data can do next!</h3>
 
 - 🔭 I’m currently working on **Revox:sentimental analysis of indian politics**
