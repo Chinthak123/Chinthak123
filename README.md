@@ -1,9 +1,10 @@
 <h1 align="center">Hi I'm Chinthak Divan </h1>
 <h3 align="center">Hey there! I’m an AI & Data Science student who loves turning raw data into useful insights. 📊 I play around with data analysis and Business Intelligence tools to find patterns, trends, and stories hidden inside numbers. 🤖 From machine learning models to dashboards, I enjoy building things that actually make sense of data. 🚀 Always learning, always experimenting, and always curious about what data can do next!</h3>
 
-<!-- Snake Game -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/chinthakdivan/chinthakdivan/output/github-contribution-grid-snake.svg" alt="snake-game" />
+  <a href="https://github.com/chinthakdivan/chinthakdivan">
+    <img src="https://github.com/chinthakdivan/chinthakdivan/blob/output/github-contribution-grid-snake.svg" alt="snake-game" />
+  </a>
 </p>
 
 - 🔭 I’m currently working on **Desktop Automation Agent**
